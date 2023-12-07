@@ -8,8 +8,6 @@
   - [ICML](#icml)
   - [IJCAI](#ijcai)
 
-***
-
 ## 人工智能
 
 ### AAAI
